@@ -50,13 +50,12 @@ public class Call
         return this.admittedTimestamp;
     }
 
-    //Constructor definition
     public Call(Line[] line, int maxTalkTime)
     {
         random = new Random();
         do
         {
-            this.fromLine = line[random.Next(line.Length)]; //random available line selected for the call
+            this.fromLine = line[random.Next(line.Length)]; 
             this.toLine = line[random.Next(line.Length)];
         } while (this.toLine.Equals(this.fromLine));
         DateTime date = DateTime.Now;
@@ -70,7 +69,7 @@ public class Call
     {
         if (fromLine.GetState().Equals("busy") || toLine.GetState().Equals("busy") || callsInProgress.Count >= TelephoneCallSimulation.NUMBER_OF_LINKS)
         {
-            Console.WriteLine(">>" + DateTime.Now + "Added to delay: " + this); //printing the log
+            Console.WriteLine(">>" + DateTime.Now + "Added to delay: " + this); 
             delayedCalls.Add(this);
             return -1;
         }
