@@ -1,0 +1,590 @@
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:28 PM
+
+>> A call came from: 3 TO 0 at 1/17/2024 2:36:28 PM which has duration 6
+>>1/17/2024 2:36:28 PMAdded to Progress: Call From 3 To 0 Arrived at 1/17/2024 2:36:28 PM for duration 6 Admitted at 1/17/2024 2:36:28 PM
+
+In progress List: 
+Call From 3 To 0 Arrived at 1/17/2024 2:36:28 PM for duration 6 Admitted at 1/17/2024 2:36:28 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:28 PMCall terminated from progress Call From 3 To 0 Arrived at 1/17/2024 2:36:28 PM for duration 6 Admitted at 1/17/2024 2:36:28 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:34 PM
+
+>> A call came from: 7 TO 5 at 1/17/2024 2:36:34 PM which has duration 18
+>>1/17/2024 2:36:34 PMAdded to Progress: Call From 7 To 5 Arrived at 1/17/2024 2:36:34 PM for duration 18 Admitted at 1/17/2024 2:36:34 PM
+
+In progress List: 
+Call From 7 To 5 Arrived at 1/17/2024 2:36:34 PM for duration 18 Admitted at 1/17/2024 2:36:34 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:34 PMCall terminated from progress Call From 7 To 5 Arrived at 1/17/2024 2:36:34 PM for duration 18 Admitted at 1/17/2024 2:36:34 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:43 PM
+
+>> A call came from: 4 TO 2 at 1/17/2024 2:36:43 PM which has duration 4
+>>1/17/2024 2:36:43 PMAdded to Progress: Call From 4 To 2 Arrived at 1/17/2024 2:36:43 PM for duration 4 Admitted at 1/17/2024 2:36:43 PM
+
+In progress List: 
+Call From 4 To 2 Arrived at 1/17/2024 2:36:43 PM for duration 4 Admitted at 1/17/2024 2:36:43 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:43 PMCall terminated from progress Call From 4 To 2 Arrived at 1/17/2024 2:36:43 PM for duration 4 Admitted at 1/17/2024 2:36:43 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:47 PM
+
+>> A call came from: 4 TO 3 at 1/17/2024 2:36:47 PM which has duration 10
+>>1/17/2024 2:36:47 PMAdded to Progress: Call From 4 To 3 Arrived at 1/17/2024 2:36:47 PM for duration 10 Admitted at 1/17/2024 2:36:47 PM
+
+In progress List: 
+Call From 4 To 3 Arrived at 1/17/2024 2:36:47 PM for duration 10 Admitted at 1/17/2024 2:36:47 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:47 PMCall terminated from progress Call From 4 To 3 Arrived at 1/17/2024 2:36:47 PM for duration 10 Admitted at 1/17/2024 2:36:47 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:51 PM
+
+>> A call came from: 2 TO 5 at 1/17/2024 2:36:51 PM which has duration 1
+>>1/17/2024 2:36:51 PMAdded to Progress: Call From 2 To 5 Arrived at 1/17/2024 2:36:51 PM for duration 1 Admitted at 1/17/2024 2:36:51 PM
+
+In progress List: 
+Call From 2 To 5 Arrived at 1/17/2024 2:36:51 PM for duration 1 Admitted at 1/17/2024 2:36:51 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:51 PMCall terminated from progress Call From 2 To 5 Arrived at 1/17/2024 2:36:51 PM for duration 1 Admitted at 1/17/2024 2:36:51 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:52 PM
+
+>> A call came from: 4 TO 2 at 1/17/2024 2:36:52 PM which has duration 9
+>>1/17/2024 2:36:52 PMAdded to Progress: Call From 4 To 2 Arrived at 1/17/2024 2:36:52 PM for duration 9 Admitted at 1/17/2024 2:36:52 PM
+
+In progress List: 
+Call From 4 To 2 Arrived at 1/17/2024 2:36:52 PM for duration 9 Admitted at 1/17/2024 2:36:52 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:52 PMCall terminated from progress Call From 4 To 2 Arrived at 1/17/2024 2:36:52 PM for duration 9 Admitted at 1/17/2024 2:36:52 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:54 PM
+
+>> A call came from: 0 TO 4 at 1/17/2024 2:36:54 PM which has duration 14
+>>1/17/2024 2:36:54 PMAdded to Progress: Call From 0 To 4 Arrived at 1/17/2024 2:36:54 PM for duration 14 Admitted at 1/17/2024 2:36:54 PM
+
+In progress List: 
+Call From 0 To 4 Arrived at 1/17/2024 2:36:54 PM for duration 14 Admitted at 1/17/2024 2:36:54 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:54 PMCall terminated from progress Call From 0 To 4 Arrived at 1/17/2024 2:36:54 PM for duration 14 Admitted at 1/17/2024 2:36:54 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:56 PM
+
+>> A call came from: 2 TO 3 at 1/17/2024 2:36:56 PM which has duration 17
+>>1/17/2024 2:36:56 PMAdded to Progress: Call From 2 To 3 Arrived at 1/17/2024 2:36:56 PM for duration 17 Admitted at 1/17/2024 2:36:56 PM
+
+In progress List: 
+Call From 2 To 3 Arrived at 1/17/2024 2:36:56 PM for duration 17 Admitted at 1/17/2024 2:36:56 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:56 PMCall terminated from progress Call From 2 To 3 Arrived at 1/17/2024 2:36:56 PM for duration 17 Admitted at 1/17/2024 2:36:56 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:36:57 PM
+
+>> A call came from: 1 TO 2 at 1/17/2024 2:36:57 PM which has duration 14
+>>1/17/2024 2:36:57 PMAdded to Progress: Call From 1 To 2 Arrived at 1/17/2024 2:36:57 PM for duration 14 Admitted at 1/17/2024 2:36:57 PM
+
+In progress List: 
+Call From 1 To 2 Arrived at 1/17/2024 2:36:57 PM for duration 14 Admitted at 1/17/2024 2:36:57 PM
+
+Delayed List: 
+
+>>1/17/2024 2:36:57 PMCall terminated from progress Call From 1 To 2 Arrived at 1/17/2024 2:36:57 PM for duration 14 Admitted at 1/17/2024 2:36:57 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:01 PM
+
+>> A call came from: 6 TO 1 at 1/17/2024 2:37:01 PM which has duration 17
+>>1/17/2024 2:37:01 PMAdded to Progress: Call From 6 To 1 Arrived at 1/17/2024 2:37:01 PM for duration 17 Admitted at 1/17/2024 2:37:01 PM
+
+In progress List: 
+Call From 6 To 1 Arrived at 1/17/2024 2:37:01 PM for duration 17 Admitted at 1/17/2024 2:37:01 PM
+
+Delayed List: 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:01 PM
+
+>> A call came from: 3 TO 0 at 1/17/2024 2:37:01 PM which has duration 14
+>>1/17/2024 2:37:01 PMAdded to Progress: Call From 3 To 0 Arrived at 1/17/2024 2:37:01 PM for duration 14 Admitted at 1/17/2024 2:37:01 PM
+
+In progress List: 
+Call From 6 To 1 Arrived at 1/17/2024 2:37:01 PM for duration 17 Admitted at 1/17/2024 2:37:01 PM
+Call From 3 To 0 Arrived at 1/17/2024 2:37:01 PM for duration 14 Admitted at 1/17/2024 2:37:01 PM
+
+Delayed List: 
+
+>>1/17/2024 2:37:01 PMCall terminated from progress Call From 6 To 1 Arrived at 1/17/2024 2:37:01 PM for duration 17 Admitted at 1/17/2024 2:37:01 PM
+
+>>1/17/2024 2:37:01 PMCall terminated from progress Call From 3 To 0 Arrived at 1/17/2024 2:37:01 PM for duration 14 Admitted at 1/17/2024 2:37:01 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:02 PM
+
+>> A call came from: 4 TO 2 at 1/17/2024 2:37:02 PM which has duration 17
+>>1/17/2024 2:37:02 PMAdded to Progress: Call From 4 To 2 Arrived at 1/17/2024 2:37:02 PM for duration 17 Admitted at 1/17/2024 2:37:02 PM
+
+In progress List: 
+Call From 4 To 2 Arrived at 1/17/2024 2:37:02 PM for duration 17 Admitted at 1/17/2024 2:37:02 PM
+
+Delayed List: 
+
+>>1/17/2024 2:37:02 PMCall terminated from progress Call From 4 To 2 Arrived at 1/17/2024 2:37:02 PM for duration 17 Admitted at 1/17/2024 2:37:02 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:04 PM
+
+>> A call came from: 6 TO 7 at 1/17/2024 2:37:04 PM which has duration 7
+>>1/17/2024 2:37:04 PMAdded to Progress: Call From 6 To 7 Arrived at 1/17/2024 2:37:04 PM for duration 7 Admitted at 1/17/2024 2:37:04 PM
+
+In progress List: 
+Call From 6 To 7 Arrived at 1/17/2024 2:37:04 PM for duration 7 Admitted at 1/17/2024 2:37:04 PM
+
+Delayed List: 
+
+>>1/17/2024 2:37:04 PMCall terminated from progress Call From 6 To 7 Arrived at 1/17/2024 2:37:04 PM for duration 7 Admitted at 1/17/2024 2:37:04 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:05 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:05 PM
+
+>> A call came from: 1 TO 3 at 1/17/2024 2:37:05 PM which has duration 8
+
+>> A call came from: 4 TO 2 at 1/17/2024 2:37:05 PM which has duration 2
+>>1/17/2024 2:37:05 PMAdded to Progress: Call From 1 To 3 Arrived at 1/17/2024 2:37:05 PM for duration 8 Admitted at 1/17/2024 2:37:05 PM
+
+In progress List: 
+Call From 1 To 3 Arrived at 1/17/2024 2:37:05 PM for duration 8 Admitted at 1/17/2024 2:37:05 PM
+Call From 4 To 2 Arrived at 1/17/2024 2:37:05 PM for duration 2 Admitted at 1/17/2024 2:37:05 PM
+
+Delayed List: 
+>>1/17/2024 2:37:05 PMAdded to Progress: Call From 4 To 2 Arrived at 1/17/2024 2:37:05 PM for duration 2 Admitted at 1/17/2024 2:37:05 PM
+
+In progress List: 
+Call From 1 To 3 Arrived at 1/17/2024 2:37:05 PM for duration 8 Admitted at 1/17/2024 2:37:05 PM
+Call From 4 To 2 Arrived at 1/17/2024 2:37:05 PM for duration 2 Admitted at 1/17/2024 2:37:05 PM
+
+Delayed List: 
+
+>>1/17/2024 2:37:05 PMCall terminated from progress Call From 1 To 3 Arrived at 1/17/2024 2:37:05 PM for duration 8 Admitted at 1/17/2024 2:37:05 PM
+
+>>1/17/2024 2:37:05 PMCall terminated from progress Call From 4 To 2 Arrived at 1/17/2024 2:37:05 PM for duration 2 Admitted at 1/17/2024 2:37:05 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:06 PM
+
+>> A call came from: 6 TO 7 at 1/17/2024 2:37:06 PM which has duration 10
+>>1/17/2024 2:37:06 PMAdded to Progress: Call From 6 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+In progress List: 
+Call From 6 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+Delayed List: 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:06 PM
+
+>> A call came from: 2 TO 5 at 1/17/2024 2:37:06 PM which has duration 10
+>>1/17/2024 2:37:06 PMAdded to Progress: Call From 2 To 5 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+In progress List: 
+Call From 6 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+Call From 2 To 5 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+Delayed List: 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:06 PM
+
+>> A call came from: 1 TO 7 at 1/17/2024 2:37:06 PM which has duration 18
+>>1/17/2024 2:37:06 PMAdded to delay: Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+
+In progress List: 
+Call From 6 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+Call From 2 To 5 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:06 PM
+
+>> A call came from: 0 TO 4 at 1/17/2024 2:37:06 PM which has duration 1
+>>1/17/2024 2:37:06 PMAdded to Progress: Call From 0 To 4 Arrived at 1/17/2024 2:37:06 PM for duration 1 Admitted at 1/17/2024 2:37:06 PM
+
+In progress List: 
+Call From 6 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+Call From 2 To 5 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+Call From 0 To 4 Arrived at 1/17/2024 2:37:06 PM for duration 1 Admitted at 1/17/2024 2:37:06 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+
+>>1/17/2024 2:37:06 PMCall terminated from progress Call From 6 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+>>1/17/2024 2:37:06 PMCall terminated from progress Call From 2 To 5 Arrived at 1/17/2024 2:37:06 PM for duration 10 Admitted at 1/17/2024 2:37:06 PM
+
+>>1/17/2024 2:37:06 PMCall terminated from progress Call From 0 To 4 Arrived at 1/17/2024 2:37:06 PM for duration 1 Admitted at 1/17/2024 2:37:06 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:07 PM
+
+>> A call came from: 7 TO 2 at 1/17/2024 2:37:07 PM which has duration 9
+>>1/17/2024 2:37:07 PMAdded to Progress: Call From 7 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 9 Admitted at 1/17/2024 2:37:07 PM
+
+In progress List: 
+Call From 7 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 9 Admitted at 1/17/2024 2:37:07 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:07 PM
+
+>> A call came from: 1 TO 2 at 1/17/2024 2:37:07 PM which has duration 19
+>>1/17/2024 2:37:07 PMAdded to delay: Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+
+In progress List: 
+Call From 7 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 9 Admitted at 1/17/2024 2:37:07 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+
+>>1/17/2024 2:37:07 PMCall terminated from progress Call From 7 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 9 Admitted at 1/17/2024 2:37:07 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:08 PM
+
+>> A call came from: 6 TO 0 at 1/17/2024 2:37:08 PM which has duration 11
+>>1/17/2024 2:37:08 PMAdded to Progress: Call From 6 To 0 Arrived at 1/17/2024 2:37:08 PM for duration 11 Admitted at 1/17/2024 2:37:08 PM
+
+In progress List: 
+Call From 6 To 0 Arrived at 1/17/2024 2:37:08 PM for duration 11 Admitted at 1/17/2024 2:37:08 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:08 PM
+
+>> A call came from: 0 TO 2 at 1/17/2024 2:37:08 PM which has duration 17
+>>1/17/2024 2:37:08 PMAdded to delay: Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+
+In progress List: 
+Call From 6 To 0 Arrived at 1/17/2024 2:37:08 PM for duration 11 Admitted at 1/17/2024 2:37:08 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+
+>>1/17/2024 2:37:08 PMCall terminated from progress Call From 6 To 0 Arrived at 1/17/2024 2:37:08 PM for duration 11 Admitted at 1/17/2024 2:37:08 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:09 PM
+
+>> A call came from: 1 TO 5 at 1/17/2024 2:37:09 PM which has duration 1
+>>1/17/2024 2:37:09 PMAdded to Progress: Call From 1 To 5 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+In progress List: 
+Call From 1 To 5 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:09 PM
+
+>> A call came from: 0 TO 7 at 1/17/2024 2:37:09 PM which has duration 1
+>>1/17/2024 2:37:09 PMAdded to Progress: Call From 0 To 7 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+In progress List: 
+Call From 1 To 5 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+Call From 0 To 7 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:09 PM
+
+>> A call came from: 3 TO 1 at 1/17/2024 2:37:09 PM which has duration 13
+>>1/17/2024 2:37:09 PMAdded to delay: Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+In progress List: 
+Call From 1 To 5 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+Call From 0 To 7 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+>>1/17/2024 2:37:09 PMCall terminated from progress Call From 1 To 5 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+>>1/17/2024 2:37:09 PMCall terminated from progress Call From 0 To 7 Arrived at 1/17/2024 2:37:09 PM for duration 1 Admitted at 1/17/2024 2:37:09 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:10 PM
+
+>> A call came from: 4 TO 2 at 1/17/2024 2:37:10 PM which has duration 8
+>>1/17/2024 2:37:10 PMAdded to Progress: Call From 4 To 2 Arrived at 1/17/2024 2:37:10 PM for duration 8 Admitted at 1/17/2024 2:37:10 PM
+
+In progress List: 
+Call From 4 To 2 Arrived at 1/17/2024 2:37:10 PM for duration 8 Admitted at 1/17/2024 2:37:10 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+>>1/17/2024 2:37:10 PMCall terminated from progress Call From 4 To 2 Arrived at 1/17/2024 2:37:10 PM for duration 8 Admitted at 1/17/2024 2:37:10 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:11 PM
+
+>> A call came from: 7 TO 5 at 1/17/2024 2:37:11 PM which has duration 1
+>>1/17/2024 2:37:11 PMAdded to Progress: Call From 7 To 5 Arrived at 1/17/2024 2:37:11 PM for duration 1 Admitted at 1/17/2024 2:37:11 PM
+
+In progress List: 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:11 PM
+Call From 7 To 5 Arrived at 1/17/2024 2:37:11 PM for duration 1 Admitted at 1/17/2024 2:37:11 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+>> A call came from: 2 TO 3 at 1/17/2024 2:37:11 PM which has duration 11
+>>1/17/2024 2:37:11 PMAdded to Progress: Call From 2 To 3 Arrived at 1/17/2024 2:37:11 PM for duration 11 Admitted at 1/17/2024 2:37:11 PM
+
+In progress List: 
+Call From 7 To 5 Arrived at 1/17/2024 2:37:11 PM for duration 1 Admitted at 1/17/2024 2:37:11 PM
+Call From 2 To 3 Arrived at 1/17/2024 2:37:11 PM for duration 11 Admitted at 1/17/2024 2:37:11 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+>>1/17/2024 2:37:11 PMCall terminated from progress Call From 7 To 5 Arrived at 1/17/2024 2:37:11 PM for duration 1 Admitted at 1/17/2024 2:37:11 PM
+
+>>1/17/2024 2:37:11 PMCall terminated from progress Call From 2 To 3 Arrived at 1/17/2024 2:37:11 PM for duration 11 Admitted at 1/17/2024 2:37:11 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:12 PM
+
+>> A call came from: 7 TO 0 at 1/17/2024 2:37:12 PM which has duration 12
+>>1/17/2024 2:37:12 PMAdded to Progress: Call From 7 To 0 Arrived at 1/17/2024 2:37:12 PM for duration 12 Admitted at 1/17/2024 2:37:12 PM
+
+In progress List: 
+Call From 7 To 0 Arrived at 1/17/2024 2:37:12 PM for duration 12 Admitted at 1/17/2024 2:37:12 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:12 PM
+
+>> A call came from: 1 TO 3 at 1/17/2024 2:37:12 PM which has duration 7
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:12 PM
+>>1/17/2024 2:37:12 PMAdded to Progress: Call From 1 To 3 Arrived at 1/17/2024 2:37:12 PM for duration 7 Admitted at 1/17/2024 2:37:12 PM
+
+In progress List: 
+Call From 7 To 0 Arrived at 1/17/2024 2:37:12 PM for duration 12 Admitted at 1/17/2024 2:37:12 PM
+Call From 1 To 3 Arrived at 1/17/2024 2:37:12 PM for duration 7 Admitted at 1/17/2024 2:37:12 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+>> A call came from: 2 TO 5 at 1/17/2024 2:37:12 PM which has duration 15
+>>1/17/2024 2:37:12 PMAdded to Progress: Call From 2 To 5 Arrived at 1/17/2024 2:37:12 PM for duration 15 Admitted at 1/17/2024 2:37:12 PM
+
+In progress List: 
+Call From 7 To 0 Arrived at 1/17/2024 2:37:12 PM for duration 12 Admitted at 1/17/2024 2:37:12 PM
+Call From 1 To 3 Arrived at 1/17/2024 2:37:12 PM for duration 7 Admitted at 1/17/2024 2:37:12 PM
+Call From 2 To 5 Arrived at 1/17/2024 2:37:12 PM for duration 15 Admitted at 1/17/2024 2:37:12 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:12 PM
+
+>> A call came from: 4 TO 7 at 1/17/2024 2:37:12 PM which has duration 11
+>>1/17/2024 2:37:12 PMAdded to delay: Call From 4 To 7 Arrived at 1/17/2024 2:37:12 PM for duration 11 not admitted 
+
+In progress List: 
+Call From 7 To 0 Arrived at 1/17/2024 2:37:12 PM for duration 12 Admitted at 1/17/2024 2:37:12 PM
+Call From 1 To 3 Arrived at 1/17/2024 2:37:12 PM for duration 7 Admitted at 1/17/2024 2:37:12 PM
+Call From 2 To 5 Arrived at 1/17/2024 2:37:12 PM for duration 15 Admitted at 1/17/2024 2:37:12 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+Call From 4 To 7 Arrived at 1/17/2024 2:37:12 PM for duration 11 not admitted 
+
+>>1/17/2024 2:37:12 PMCall terminated from progress Call From 7 To 0 Arrived at 1/17/2024 2:37:12 PM for duration 12 Admitted at 1/17/2024 2:37:12 PM
+
+>>1/17/2024 2:37:12 PMCall terminated from progress Call From 1 To 3 Arrived at 1/17/2024 2:37:12 PM for duration 7 Admitted at 1/17/2024 2:37:12 PM
+
+>>1/17/2024 2:37:12 PMCall terminated from progress Call From 2 To 5 Arrived at 1/17/2024 2:37:12 PM for duration 15 Admitted at 1/17/2024 2:37:12 PM
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:13 PM
+
+>> A call came from: 5 TO 3 at 1/17/2024 2:37:13 PM which has duration 17
+>>1/17/2024 2:37:13 PMAdded to Progress: Call From 5 To 3 Arrived at 1/17/2024 2:37:13 PM for duration 17 Admitted at 1/17/2024 2:37:13 PM
+
+In progress List: 
+Call From 5 To 3 Arrived at 1/17/2024 2:37:13 PM for duration 17 Admitted at 1/17/2024 2:37:13 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+Call From 4 To 7 Arrived at 1/17/2024 2:37:12 PM for duration 11 not admitted 
+
+
+
+
+CURRENT TIME: 1/17/2024 2:37:13 PM
+
+>> A call came from: 1 TO 2 at 1/17/2024 2:37:13 PM which has duration 1
+>>1/17/2024 2:37:13 PMAdded to Progress: Call From 1 To 2 Arrived at 1/17/2024 2:37:13 PM for duration 1 Admitted at 1/17/2024 2:37:13 PM
+
+In progress List: 
+Call From 5 To 3 Arrived at 1/17/2024 2:37:13 PM for duration 17 Admitted at 1/17/2024 2:37:13 PM
+Call From 1 To 2 Arrived at 1/17/2024 2:37:13 PM for duration 1 Admitted at 1/17/2024 2:37:13 PM
+
+Delayed List: 
+Call From 1 To 7 Arrived at 1/17/2024 2:37:06 PM for duration 18 not admitted 
+Call From 1 To 2 Arrived at 1/17/2024 2:37:07 PM for duration 19 not admitted 
+Call From 0 To 2 Arrived at 1/17/2024 2:37:08 PM for duration 17 not admitted 
+Call From 3 To 1 Arrived at 1/17/2024 2:37:09 PM for duration 13 not admitted 
+Call From 4 To 7 Arrived at 1/17/2024 2:37:12 PM for duration 11 not admitted 
+
+>>1/17/2024 2:37:13 PMCall terminated from progress Call From 5 To 3 Arrived at 1/17/2024 2:37:13 PM for duration 17 Admitted at 1/17/2024 2:37:13 PM
+
+>>1/17/2024 2:37:13 PMCall terminated from progress Call From 1 To 2 Arrived at 1/17/2024 2:37:13 PM for duration 1 Admitted at 1/17/2024 2:37:13 PM
