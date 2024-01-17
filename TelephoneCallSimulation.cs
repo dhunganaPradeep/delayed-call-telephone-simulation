@@ -93,6 +93,5 @@ public class GenerateRandomCall
         delayedCallList = new List<Call>();
 
         new GenerateRandomCall().Run();
-        Console.ReadLine(); // Keep the console open to observe the output
     }
 }
